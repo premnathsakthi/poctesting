@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101720" started-at="2020-12-17T06:56:22Z" finished-at="2020-12-17T06:58:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101720" started-at="2020-12-17T06:56:22Z" finished-at="2020-12-17T06:58:04Z">
+      <class name="machinetest.MachineTask">
+        <test-method status="PASS" signature="OnlineShopping(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:machinetest.MachineTask@49993335]" name="OnlineShopping" duration-ms="101073" started-at="2020-12-17T06:56:23Z" data-provider="fetchData" finished-at="2020-12-17T06:58:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Printed Summer Dress]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Blouse]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abctest@jj.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[premnath]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sakthivel]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[abcdetest]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[tech]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Technolgy ltd]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Technolgy ltd 9/20 willam nagar]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dalles]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[97058]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[9600708390]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineShopping -->
+      </class> <!-- machinetest.MachineTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
